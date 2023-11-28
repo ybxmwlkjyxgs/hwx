@@ -1,0 +1,22 @@
+376.04960000002757:	{"globalClasses":["Array","Present","IEventNotify","Coroutine","Actor","Team","Timer","Snapshot","EffectParamShared","TriggerParamTable","Item","Region","ScreenPos","Target","UnitTable","EffectParam","Point","Mover","Unit","Buff","HealInstance","TriggerEvent","DamageInstance","Slot","Skill","Inventory","Player","Trigger","Line","UnitGroup","Sight","DataCache","AISearcher","ScoreCommitter","ScoreObjData","ScoreGetParam","UserID","ScoreData","ScoreSetParam","ScoreAddParam","ScoreMoneyData","ScoreListAddParam","ScoreListModifyParam","ScoreListDeleteParam","ScoreListData","ScoreMsgSendParam","ScoreMsgQueryParam","ScoreNameNewParam","ScoreNameSearchParam","ScoreChannelMsgData","ScoreGetRankListParam","ScoreGetUserRankParam","ScoreGetRankListData","ScoreGetUserRankData","ScoreGetRankTotalData","ScoreGetRankTotalParam","ScoreMsgData","ScoreListID","ScoreID","ScoreNameData","ScoreMsgID","ScoreMoneyParam","os","DateTime","UnitBuff","autotest_log","ScoreRankSetParam","ScoreRankAddParam","UnitPropertyBonus","SceneObject","Quest","QuestCondition","crop","ScoreCropData","Vector","RegionRect","RegionCircle","Cast"],"globalModules":["coroutine","_G","log","base"]}
+1993.5982999999542:	Loaded 0 plugins
+1994.3530000000028:	Parsing project settings
+2009.2706999999937:	Transforming D:/xh/hwx/script/trigger_validator.ts
+2011.7395000000251:	moduleName:
+2011.7449000000488:	validator
+2012.1652999999933:	exportScope:
+2012.170299999998:	true
+2699.5004999999655:	Printing D:/xh/hwx/script/trigger_validator.ts
+2797.2966000000015:	Transforming D:/xh/hwx/script/trigger_module_main_1.ts
+2806.247500000056:	moduleName:
+2806.2541999999667:	hwx_6151
+2806.740300000063:	exportScope:
+2806.74589999998:	true
+2828.8139000000665:	Printing D:/xh/hwx/script/trigger_module_main_1.ts
+2836.2952000000514:	Constructing emit plan
+2836.761599999969:	Resolving dependencies for D:/xh/hwx/script/trigger_validator.ts
+2837.8673000000417:	Resolving dependencies for D:/xh/hwx/script/trigger_module_main_1.ts
+2838.563599999994:	Emitting output
+2839.342399999965:	Emitting D:/xh/hwx/script/trigger_validator.lua
+2840.9427999999607:	Emitting D:/xh/hwx/script/trigger_module_main_1.lua
+2841.7765000000363:	Emit finished!

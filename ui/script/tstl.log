@@ -1,0 +1,22 @@
+323.67230000009295:	{"globalClasses":["Array","Present","IEventNotify","Coroutine","Trigger","Item","Timer","Buff","Skill","Player","TriggerParamTable","TriggerEvent","Actor","ScreenPos","Target","EffectParam","EffectParamShared","YPR旋转","DataCache","Camera","Slot","Vector","Unit","Point"],"globalModules":["coroutine","_G","log","base"]}
+1320.2462000000523:	Loaded 0 plugins
+1320.9620000000577:	Parsing project settings
+1327.361499999999:	Transforming D:/xh/hwx/ui/script/trigger_validator.ts
+1329.5532000000821:	moduleName:
+1329.5580000000773:	validator
+1329.9983000000939:	exportScope:
+1330.0029000000795:	true
+1397.817100000102:	Printing D:/xh/hwx/ui/script/trigger_validator.ts
+1414.9489000000758:	Transforming D:/xh/hwx/ui/script/trigger_module_main_1.ts
+1416.0716000000248:	moduleName:
+1416.075700000045:	hwx_6151
+1416.4310000000987:	exportScope:
+1416.4349000001093:	true
+1442.6039000001037:	Printing D:/xh/hwx/ui/script/trigger_module_main_1.ts
+1448.1309000001056:	Constructing emit plan
+1448.5120000001043:	Resolving dependencies for D:/xh/hwx/ui/script/trigger_validator.ts
+1449.1315000000177:	Resolving dependencies for D:/xh/hwx/ui/script/trigger_module_main_1.ts
+1449.6892000000225:	Emitting output
+1449.970200000098:	Emitting D:/xh/hwx/ui/script/trigger_validator.lua
+1451.0844999999972:	Emitting D:/xh/hwx/ui/script/trigger_module_main_1.lua
+1451.875800000038:	Emit finished!

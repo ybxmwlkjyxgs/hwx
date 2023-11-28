@@ -1,0 +1,25 @@
+{
+	"MapDisplayName": "吸血鬼幸存者模版",
+	"HideTileDeco": false,
+	"EnableGAO": false,
+	"GuideURL": "http://pt.master.sce.xd.com/editor_app.html",
+	"ProjectName": "hwx_6151",
+	"TriggerEditorMode": "V2",
+	"MechanismMode": "BOTH",
+	"TemplateName": "vampire_template",
+	"EnableSetScoreName": true,
+	"IsLib": false,
+	"Accessable": false,
+	"TestMapPath": "",
+	"PackEffect": true,
+	"LibForEditor": false,
+	"api_version": {
+		"api_version": 0,
+		"show_name": "默认版本"
+	},
+	"LodOffset": [
+		0,
+		0,
+		0
+	]
+}

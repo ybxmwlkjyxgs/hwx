@@ -1,0 +1,6 @@
+{
+    "[EntryNode][$$hwx_6151.spell.火球.Unit].Data.Game.Name":"投射物单位",
+    "[EntryNode][$$hwx_6151.spell.火球.root].Data.Game.Description[1]":"每隔1s向前发射一个火球",
+    "[EntryNode][$$hwx_6151.spell.火球.root].Data.Game.Description[2]":"增加一个火球，向前散射",
+    "[EntryNode][$$hwx_6151.spell.火球.root].Data.Game.Name":"火球"
+}

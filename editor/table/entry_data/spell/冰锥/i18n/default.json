@@ -1,0 +1,6 @@
+{
+    "[EntryNode][$$hwx_6151.spell.冰锥.Unit].Data.Game.Name":"投射物单位",
+    "[EntryNode][$$hwx_6151.spell.冰锥.root].Data.Game.Description[1]":"每隔1s发射一个冰锥，穿透敌人",
+    "[EntryNode][$$hwx_6151.spell.冰锥.root].Data.Game.Description[2]":"冰锥穿透数+1",
+    "[EntryNode][$$hwx_6151.spell.冰锥.root].Data.Game.Name":"冰锥"
+}
